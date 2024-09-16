@@ -7,7 +7,7 @@ description,Biography,
 keywords,Keywords,true
 creator,Image Creator,
 source, Image Source,
-sourcelink, Image Source Link,
+sourcelink, Image Source Link,true
 format,Item Format,
 rights,Item Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement,true
