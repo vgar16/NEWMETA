@@ -2,12 +2,12 @@ field,display_name,browse_link,external_link
 title,Name,
 date,Date of Birth,
 location,Place of Birth,
+location2,Place of Residence,
 description,Biography,
 keywords,Keywords,true
 creator,Image Creator,
-source, Image Source
-identifier,Source Identifier,,
-type,Item Type,
+source, Image Source,
+sourcelink, Image Source Link,
 format,Item Format,
 rights,Item Rights,
 rightsstatement,Rights Statement,,true
