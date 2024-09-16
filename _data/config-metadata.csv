@@ -1,0 +1,13 @@
+field,display_name,browse_link,external_link
+title,Name,
+date,Date of Birth,
+location,Place of Birth,
+description,Biography,
+keywords,Keywords,true
+creator,Image Creator,
+source, Image Source
+identifier,Source Identifier,,
+type,Item Type,
+format,Item Format,
+rights,Item Rights,
+rightsstatement,Rights Statement,,true
